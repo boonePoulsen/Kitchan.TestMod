@@ -1,10 +1,10 @@
 
-id = "WebfishingSampleMod"
-name = "Webfishing Sample Mod"
-description = "This is a sample mod."
+id = "Kitchan.TestMod"
+name = "Testing"
+description = "I am testing."
 version = "1.0.0"
-homepage = "https://github.com/NotNite/WebfishingSampleMod"
-author = "You!"
+homepage = "https://github.com/boonePoulsen/Kitchan.TestMod"
+author = "Kitchan"
 
 icon = "icon.png"
 readme = "README.md"
